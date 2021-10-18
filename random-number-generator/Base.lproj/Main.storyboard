@@ -760,7 +760,7 @@
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Z3e-q9-y2i">
                                 <rect key="frame" x="229" y="20" width="233" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="left" title="It utilizes a NIST-approved AES cipher within its algorithm as provided macOS." id="5tm-Ea-kxm">
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="left" title="It utilizes a NIST-approved AES cipher within its algorithm as provided by macOS." id="5tm-Ea-kxm">
                                     <font key="font" textStyle="callout" name=".SFNS-Regular"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="windowBackgroundColor" catalog="System" colorSpace="catalog"/>
