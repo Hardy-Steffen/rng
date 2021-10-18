@@ -18,10 +18,7 @@ class OnlyIntegerValueFormatter: NumberFormatter {
             return true
         }
         
-        // Limit input length
-        if partialString.characters.count > 8 {
-            return false
-        }
+        
         
         // Actual check
         return Int(partialString) != nil

@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  random-number-generator
 //
-//  Created by Mike on 05/03/2018.
-//  Copyright © 2018 Mike. All rights reserved.
+//
+//
 //
 
 import Cocoa
