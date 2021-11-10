@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		277E5348204CD50F009F8B2D /* Random Number Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Random Number Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		277E5348204CD50F009F8B2D /* hs rng.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hs rng.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		277E534B204CD50F009F8B2D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		277E534D204CD510009F8B2D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		277E534F204CD510009F8B2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 		277E5349204CD50F009F8B2D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				277E5348204CD50F009F8B2D /* Random Number Generator.app */,
+				277E5348204CD50F009F8B2D /* hs rng.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -69,9 +69,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		277E5347204CD50F009F8B2D /* Random Number Generator */ = {
+		277E5347204CD50F009F8B2D /* hs rng */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 277E5358204CD510009F8B2D /* Build configuration list for PBXNativeTarget "Random Number Generator" */;
+			buildConfigurationList = 277E5358204CD510009F8B2D /* Build configuration list for PBXNativeTarget "hs rng" */;
 			buildPhases = (
 				277E5344204CD50F009F8B2D /* Sources */,
 				277E5345204CD50F009F8B2D /* Frameworks */,
@@ -81,9 +81,9 @@
 			);
 			dependencies = (
 			);
-			name = "Random Number Generator";
+			name = "hs rng";
 			productName = "random-number-generator";
-			productReference = 277E5348204CD50F009F8B2D /* Random Number Generator.app */;
+			productReference = 277E5348204CD50F009F8B2D /* hs rng.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 277E5343204CD50F009F8B2D /* Build configuration list for PBXProject "Random Number Generator" */;
+			buildConfigurationList = 277E5343204CD50F009F8B2D /* Build configuration list for PBXProject "hs rng" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				277E5347204CD50F009F8B2D /* Random Number Generator */,
+				277E5347204CD50F009F8B2D /* hs rng */,
 			);
 		};
 /* End PBXProject section */
@@ -283,7 +283,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "random-number-generator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ajhs.rn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -303,7 +303,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "random-number-generator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ajhs.rn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		277E5343204CD50F009F8B2D /* Build configuration list for PBXProject "Random Number Generator" */ = {
+		277E5343204CD50F009F8B2D /* Build configuration list for PBXProject "hs rng" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				277E5356204CD510009F8B2D /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		277E5358204CD510009F8B2D /* Build configuration list for PBXNativeTarget "Random Number Generator" */ = {
+		277E5358204CD510009F8B2D /* Build configuration list for PBXNativeTarget "hs rng" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				277E5359204CD510009F8B2D /* Debug */,
